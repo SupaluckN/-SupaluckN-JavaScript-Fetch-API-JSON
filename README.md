@@ -1,4 +1,4 @@
-# test
+# JavaScript Fetch a JSON file.
 
-just for testing...
+This is just an example for demostration how to use the JavaScript Fetch a JSON file.
 
