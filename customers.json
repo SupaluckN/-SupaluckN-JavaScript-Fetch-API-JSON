@@ -34,6 +34,13 @@
         "lastName" : "William",
         "Age" : "22",
         "Country" : "UK"
+    },
+    
+    {
+        "id": "6",
+        "firstName" : "Tony",
+        "lastName" : "Goh",
+        "Age" : "50",
+        "Country" : "Malaysia"
     }
-
 ]
